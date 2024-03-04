@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Lynn 👋
 
 <!--
 **jackieglx/jackieglx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on an Order Management project.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently pursuing a graduate degreee in Computer Science @NEU.
+- 🔭 I’m currently working on an Order Management project.
+- 👯 I’m looking for a summer intern as a software engineer.
+- 💬 Ask me about ...
+- 📫 How to reach me: [Lynn](https://www.linkedin.com/in/lingxiao-guo-best-version)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cooking ~ Spicy dry hot pot, Spicy Stewed Tomato Beef.
